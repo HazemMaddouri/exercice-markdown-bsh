@@ -34,7 +34,8 @@ This is the official logo of Markdow.
 
 ### Animated images
 
-![matrix](https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+![matrix](https://c.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif)
+
 
 
 
